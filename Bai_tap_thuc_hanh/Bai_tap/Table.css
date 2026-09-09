@@ -1,0 +1,27 @@
+
+tr.header{
+    background-color: white;
+    color: blue;
+}
+
+
+table {
+    margin: 0 auto; /* Căn giữa theo chiều ngang */
+    font-size: 14px;
+}
+
+tr.TT1{
+    color: red;
+}
+tr.TT2{
+    color: rgb(0, 255, 17);
+}
+tr.TT3{
+    color: rgb(255, 0, 204);
+}
+
+h3{
+    font-size: 25px;
+}
+
+
